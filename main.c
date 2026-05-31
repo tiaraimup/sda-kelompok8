@@ -421,6 +421,7 @@ int main() {
     do {
 
         printf("=====================================\n");
+        printf("        MENU UTAMA\n");
         printf("1. Sorting Dasar\n");
         printf("2. Advance Sorting\n");
         printf("3. Keluar\n");
