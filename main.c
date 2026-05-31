@@ -83,7 +83,7 @@ int loadDataset(const char *filename, char ***arr) {
     return count;
 }
 
-// Membersihkan memory
+// untuk membersihkan memory
 void freeDataset(char **arr, int n) {
 
     for (int i = 0; i < n; i++) {
